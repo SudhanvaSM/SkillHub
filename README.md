@@ -85,11 +85,27 @@ It addresses a common problem among self-learners — **lack of direction and co
 
 ```
 SkillHub/
-├── frontend/        # React frontend
-├── backend/         # Node + Express backend
-├── models/          # MongoDB schemas
-├── routes/          # API routes
-├── controllers/     # Business logic
+├── .gitattributes
+├── .gitignore
+├── client/
+│   ├── public/
+│   │   ├── images/
+│   ├── src/
+│   │   ├── App.css
+│   │   ├── App.js
+│   │   ├── App.test.js
+│   │   ├── FloatingLines.css
+│   │   ├── FloatingLines.jsx
+│   │   ├── contexts/
+│   │   ├── index.css
+│   │   ├── index.js
+└── server/
+    ├── config/
+    ├── middleware/
+    ├── models/
+    ├── routes/
+    └── server.js
+
 ```
 
 ---
