@@ -89,7 +89,6 @@ SkillHub/
 ├── .gitignore
 ├── client/
 │   ├── public/
-│   │   ├── images/
 │   ├── src/
 │   │   ├── App.css
 │   │   ├── App.js
