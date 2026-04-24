@@ -1,7 +1,6 @@
 # 🚀 SkillHub – Structured Learning Platform
 
 **Live Demo:** https://skillhub-fwd.vercel.app/
-**Repository:** https://github.com/SudhanvaSM/SkillHub
 
 ---
 
