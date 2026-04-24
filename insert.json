@@ -1,0 +1,5 @@
+[ {"name": "Sudhanva S M", "img": "/Images/sudhanva.png", "course": "Machine Learning", "quote": "This roadmap helped me understand ML and build models." },
+ { "name": "Sumant Shridhar", "img": "/Images/sumant.jpeg", "course": "Web development", "quote": "I understood the concepts clearly & built my first portfolio website." },
+ { "name": "Subraveti Sathvik", "img": "/Images/sathvik.jpg", "course": "Artificial Intelligence", "quote": "I learned AI concepts well and created a chatbot." },
+ { "name": "Srihari S Rao", "img": "/Images/srihari.jpeg", "course": "Cyber Security", "quote": "I learned essential security concepts and built my first analyzer." }
+]
